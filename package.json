@@ -12,7 +12,15 @@
     "css"
   ],
   "license": "MIT",
-  "author": "Your Name",
+  "author": "Chamika Sathsara",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamikaSathsara/zero-cls-font.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChamikaSathsara/zero-cls-font/issues"
+  },
+  "homepage": "https://github.com/ChamikaSathsara/zero-cls-font#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
